@@ -15,7 +15,7 @@ import java.util.Arrays;
  * CALCULATE max
  * READ 
  * DISPLAY sum, average, median, min, max 
- * /
+ */
 
 public class Assignment2 {
 	public static void main(String[] args) {
