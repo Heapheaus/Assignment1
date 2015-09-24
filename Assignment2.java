@@ -1,6 +1,9 @@
 import java.util.Scanner;
 import java.util.Arrays;
 /**
+ * 
+ * Author Teddy Church
+ * 
  * INIT equation array
  * DISPLAY quation array
  * PROMPT user for 5 intigers
@@ -10,6 +13,7 @@ import java.util.Arrays;
  * CALCULATE median
  * CALCULATE min 
  * CALCULATE max
+ * READ 
  * DISPLAY sum, average, median, min, max 
  * /
 
