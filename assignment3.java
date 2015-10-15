@@ -5,6 +5,23 @@ import javax.swing.JOptionPane;
 public class a3 extends JOptionPane {
 	//This is a personal reminder not to mix while loops and for loops
 	//This is hard to follow.
+	/**
+	 *By Teddy 
+	 *
+	 *SET Variables
+	 *LOOP check trys are less then try limit(user has not surpassed limit)
+	 *PROMPT user for username
+	 *CHECK username
+	 *IF username =/= correct, try++, reprompt for username
+	 *PROMPT user for password
+	 *CHECK password
+	 *IF password =/= correct, try++, reprompt for password
+	 *PROMPT user to select account type from list
+	 *CHECK selected account type = account type index
+	 *IF selected account type = account type index, Display switch case message.
+	 *ELSE reprompt user for account type
+	 * 
+	 */
 	public static void main(String[] args) {
 		String[] username = {"jacobf", "BobbySmith", "Mike"};
 		String[] password = {"HelloWorld", "IHateClass", "NeedCoffee"};
